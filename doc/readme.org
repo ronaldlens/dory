@@ -1,0 +1,5 @@
+#+title: Readme for dory cluster
+#+author: R.F. Lens
+
+* Dory cluster
+A local kubernetes cluser on my macbook
